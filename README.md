@@ -13,3 +13,4 @@
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pxzlzz/Incognito)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/Pxzlzz/Incognito)
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/EM_nUB?referralCode=KQtcs4)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/pxzlzz/incognito)

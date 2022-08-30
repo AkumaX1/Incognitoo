@@ -8,7 +8,7 @@
 <p align="center">Incognito is a proxy used for evading internet censorship or accessing websites in a controlled sandbox using the power of service-workers and more<br><br></p>
 
 ## Quick Deployments
-**NOTICE: HEROKU WILL NO LONGER BE FREE AFTER NOV 15 2022! :(**
+**NOTICE: HEROKU WILL NO LONGER BE FREE AFTER NOV 28 2022! :(**
 
 <a target="_blank" href="https://heroku.com/deploy/?template=https://github.com/Pxzlzz/Incognito"><img alt="Deploy to Heroku" src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/heroku.svg"></a>
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/Pxzlzz/Incognito)
